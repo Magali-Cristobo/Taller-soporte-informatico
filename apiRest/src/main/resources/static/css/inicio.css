@@ -1,0 +1,103 @@
+#form {
+    position:absolute;
+    background-color: white;
+    z-index:1;
+    border-radius: 22px;
+    top:150px;
+    left:300px;
+    width:400px;
+    height:450px;
+    text-align: center;
+}
+
+#botones {
+    margin-top: 0px;
+}
+
+p {
+    color: black;
+}
+
+
+btn {
+    cursor: pointer;
+}
+
+#botonesSubir {
+    text-align: left;
+}
+
+.btn-circle.btn-xl {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    font-size: 35px;
+    text-align: center;
+    margin-left: 35px;
+    margin-right: 0px;
+}
+
+#botones {
+    position: relative;
+    margin-top: 1cm;
+}
+#submit {
+    position: relative;
+    top: 2cm;
+}
+
+#archivosSubidos {
+    position: relative;
+    top: 1cm;
+    text-align: center;
+}
+
+#entradaArchivo {
+    visibility: hidden;
+}
+
+
+.btn-secondary.btn-lg{
+    padding-left: 48px;
+    padding-right: 48px;
+    border-radius: 30px;
+    top: 3cm;
+}
+
+input {
+    position: absolute;
+    font-size: 50px;
+    opacity: 0;
+    right: 0;
+    top: 0;
+}
+
+.btn-primary {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 35px;
+    color: white;
+    margin: 20px;
+}
+
+#circular {
+    background-color: blue;
+    border: none;
+    border-radius: 48px;
+    font-size: 35px;
+    color: white;
+}
+
+
+
+
+.btn-primary {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}

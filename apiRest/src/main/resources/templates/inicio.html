@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <title>wetransfer</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous">
+    </script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="../css/inicio.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+    <form id="form" method="post" th:action="@{/procesar}" onsubmit="return enviar();" enctype="multipart/form-data" class="container" >
+        <div id="archivosSubidos"></div>
+
+        <div id="botones" class="row">
+
+            <button  onclick="subirArchivo()" class="btn btn-primary btn-circle btn-xl">
+                +
+            </button>
+
+            <div class="col">
+
+                <button onclick="subirArchivo()" class="btn btn-lg">
+                    Añade tus archivos
+                </button>
+
+                <a onclick="subirArchivo()" href="" id="linkSubir"> selecciona una carpeta</a>​
+
+                </button>
+
+            </div>
+
+        </div>
+
+        <input id="entradaArchivo" name="file" type="file">
+
+        <button id="submit" class="btn btn-secondary btn-lg" onclick="enviar()">
+            Enviar
+        </button>
+
+    </form>
+
+    <script>
+
+        $(document).ready(function() {
+            mostrarSeccionArchivos();
+        });
+
+        function mostrarSeccionArchivos() {
+
+            $('input[type="file"]').change(function(e) {
+
+                var fileName = e.target.files[0].name;
+
+                if (fileName.length != 0){
+                    mostrarNombreDeArchivo(fileName);
+                    window.stop()
+                }else{
+                    mostrarBotones();
+                }
+
+            });
+        }
+
+        function enviar() {
+            return true;
+        }
+
+        function mostrarBotones() {
+            $('#archivosSubidos').hide();
+            $('#botones').show();
+        }
+
+        function subirArchivo(){
+
+            $('#entradaArchivo').trigger('click');
+            $('#entradaArchivo').on('change',function(){
+                $(this).next('#archivosSubidos').addClass("selected").html($(this).val());
+            })
+        }
+
+        function mostrarNombreDeArchivo(nombre){
+            $('#botones').hide();
+            $('#archivosSubidos').append("<p>" + "*" + nombre + "</p>");
+            $('#archivosSubidos').show();
+        }
+
+
+        $.ajax({
+            url: "http://localhost:8080/api/datos/csv",
+            type: 'GET'
+        })
+        .done(function (data) {
+            console.log(data);
+        })
+        .fail(function () {
+            console.log("error, no se pudo obtener datos");
+        });
+
+    </script>
+
+</body>
+
+</html>
