@@ -20,7 +20,7 @@ public class ManejadorDeArchivosCSV {
     public ManejadorDeArchivosCSV() {
         this.ubicacionArchivo = "src/main/resources/files/";
         this.nombreDeArchivo = "estaciones-de-subte.csv";
-        this.separador = ';';
+        this.separador = ',';
     }
 
     public CSVParser formatearSeparador(){
