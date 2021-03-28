@@ -1,59 +1,98 @@
 <!DOCTYPE html>
 <html lang="es" xmlns:th="http://www.thymeleaf.org">
-
-<head>
-    <meta charset="utf-8">
-    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-    <meta content="utf-8" http-equiv="encoding">
-    <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous">
-    </script>
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.0/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="../css/inicio.css" rel="stylesheet" type="text/css">
-
-</head>
-
-<body>
-
-<button id="botonCsv" onclick="mostrarCSV()"> Datos CSV </button>
-<button id="botonJSon" onclick="mostrarJSON()"> Datos JSON </button>
-
+  <head>
+      <meta charset="utf-8">
+      <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+      <meta content="utf-8" http-equiv="encoding">
+      <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous">
+      </script>
+      <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.0/js/bootstrap.min.js"></script>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+      <link href="../css/inicio.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <button id="botonCsv" onclick="mostrarCSV()"> Datos CSV </button>
+    <button id="botonJSon" onclick="mostrarJSON()"> Datos JSON </button>
+    <table id="tabla" class="table table-striped" style="display: none"><tr id="columnas"></tr></table>
     <script>
-        function mostrarCSV(){
-            $("#botonCsv").hide();
-            $("#botonJSon").hide();
+      function armarColumnas(columnas){
+        let contenidoColumnas="";
+        for(let i=0;i<columnas.length;i++){
+          contenidoColumnas+="<th>"+columnas[i]+"</th>";
+        }
+        $("#columnas").append(contenidoColumnas);
+      }
 
-            $.ajax({
-              url: "http://localhost:8080/api/datos/csv",
-              type: 'GET'
-            })
-            .done(function (data) {
-              console.log(data);
-            })
-            .fail(function () {
-              console.log("error, no se pudo obtener datos");
-            });
+      function armarFilas(informacion){
+        let contenidoTabla="";
+        for(let i=0;i<informacion.length;i++){
+          contenidoTabla = "<tr>\n";
+          contenidoTabla+=  "<td>" + informacion[i].longitud + "</td>"; //ver si se puede mejorar esto para no hardcodear la columna
+          contenidoTabla+=  "<td>" + informacion[i].latitud + "</td>";
+          contenidoTabla+=  "<td>" + informacion[i].id + "</td>";
+          contenidoTabla+=  "<td>" + informacion[i].nombre + "</td>";
+          contenidoTabla+=  "<td>" + informacion[i].linea + "</td>";
+          $("#tabla").append(contenidoTabla);
+        }
+        $("#tabla").css("display","block");
+      }
+      
+      function armarFilasJson(informacion){
+        let contenidoTabla="";
+        for(let i=0;i<informacion.length;i++){
+          contenidoTabla = "<tr>\n";
+          contenidoTabla+=  "<td>" + informacion[i].nombre_completo + "</td>"; //ver si se puede mejorar esto para no hardcodear la columna
+          contenidoTabla+=  "<td>" + informacion[i].fuente + "</td>";
+          contenidoTabla+=  "<td>" + informacion[i].iso_id + "</td>";
+          contenidoTabla+=  "<td>" + informacion[i].nombre + "</td>";
+          contenidoTabla+=  "<td>" + informacion[i].id + "</td>";
+          contenidoTabla+=  "<td>" + informacion[i].categoria + "</td>";
+          contenidoTabla+=  "<td>" + informacion[i].iso_nombre+ "</td>";
+          contenidoTabla+=  "<td>" + informacion[i].centroide.lat + "</td>";
+          contenidoTabla+=  "<td>" + informacion[i].centroide.lon + "</td>";
+          $("#tabla").append(contenidoTabla);
+        }
+        $("#tabla").css("display","block");
+      }
+
+      function mostrarCSV(){
+        $("#botonCsv").hide();
+        $("#botonJSon").hide();
+        let columnas=["latitud","longitud","id", "nombre", "linea"];
+
+        $.ajax({
+          url: "http://localhost:8080/api/datos/csv",
+          type: 'GET'
+        })
+        .done(function (data) {
+          let informacion=data.datos;
+          armarColumnas(columnas);
+          armarFilas(informacion);
+        })
+        .fail(function () {
+          console.log("error, no se pudo obtener datos");
+        });
       }
 
       function mostrarJSON(){
-            $("#botonCsv").hide();
-            $("#botonJSon").hide();
+        $("#botonCsv").hide();
+        $("#botonJSon").hide();
+        let columnas=["nombre_completo","fuente","iso_id", "nombre", "id","categoria","iso_nombre","lat","lon"];
 
-            $.ajax({
-              url: "http://localhost:8080/api/datos/json",
-              type: 'GET'
-            })
-            .done(function (data) {
-              console.log(data[1]);
-              })
-            .fail(function () {
-              console.log("error, no se pudo obtener datos");
-            });
+        $.ajax({
+          url: "http://localhost:8080/api/datos/json",
+          type: 'GET'
+        })
+        .done(function (data) {
+          let informacion=data.provincias.provincias;
+          armarColumnas(columnas);
+          armarFilasJson(informacion);
+        })
+        .fail(function () {
+          console.log("error, no se pudo obtener datos");
+        });
       }
-
     </script>
-
-</body>
-
+  </body>
 </html>
