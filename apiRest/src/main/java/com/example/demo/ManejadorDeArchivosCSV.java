@@ -8,7 +8,9 @@ import org.springframework.stereotype.Service;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 
 @Service
 public class ManejadorDeArchivosCSV {
@@ -70,6 +72,25 @@ public class ManejadorDeArchivosCSV {
         }
 
     }
+
+    public List<Estacion> obtenerListaDeEstaciones(){
+        List<Estacion> listaEstaciones= new ArrayList<>();
+        Iterator<String[]> iterador = this.obtenerIterador();
+
+        while (iterador.hasNext()){
+            String[] fila = iterador.next();
+            float longitud = Float.parseFloat(fila[0]);
+            float latitud = Float.parseFloat(fila[1]);
+            int id = Integer.parseInt(fila[2]);
+            String nombre = fila[3];
+            String linea = fila[4];
+            Estacion nuevaEstacion = new Estacion(longitud,latitud,id,nombre,linea);
+            listaEstaciones.add(nuevaEstacion);
+        }
+
+        return listaEstaciones;
+    }
+
 
     public static void main(String[] args) {
 

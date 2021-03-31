@@ -78,16 +78,16 @@
       function mostrarJSON(){
         $("#botonCsv").hide();
         $("#botonJSon").hide();
-        let columnas=["nombre_completo","fuente","iso_id", "nombre", "id","categoria","iso_nombre","lat","lon"];
+        let columnas=["nombre_completo","fuente","iso_id", "nombre", "id","categoria","iso_nombre","lat","lon"];// se podria hacer una funcion para obtener las columnas del archivo
 
         $.ajax({
           url: "http://localhost:8080/api/datos/json",
           type: 'GET'
         })
         .done(function (data) {
-          let informacion=data.provincias.provincias;
-          armarColumnas(columnas);
-          armarFilasJson(informacion);
+            let informacion=data.provincias;
+            armarColumnas(columnas);
+            armarFilasJson(informacion);
         })
         .fail(function () {
           console.log("error, no se pudo obtener datos");
