@@ -28,9 +28,27 @@
             $("#botonJSon").show();
         }
 
-        function obtenerColumnas(informacion){//no funciona si tenemos una clave adentro de la otra
-            var primerObjeto=informacion[0];
-            var columnas = Object.keys(primerObjeto);
+        function obtenerColumnas(informacion){
+            let map=new Map(Object.entries(informacion));
+            let map2={};
+            let mapAux={};
+            let columnas=[];
+            for ([key, value] of map) {
+                if (typeof value == "object"){
+                    map2 = new Map(Object.entries(value));
+                }
+            }
+            for ([key, value] of map2) {
+                if(typeof value == "object"){
+                    mapAux = new Map(Object.entries(value));
+                    for ([clave, valor] of mapAux){
+                        columnas.push(clave);
+                    }
+                }
+                else{
+                    columnas.push(key);
+                }
+            }
             return columnas;
         }
 
