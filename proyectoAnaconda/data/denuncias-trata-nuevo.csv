@@ -1,0 +1,505 @@
+,nro_registro_interno,fecha_ingreso_denuncia,tema,subtema,referido_tipo,nacionalidad,provincia,localidad,genero,edad_aparente,embarazada,discapacidad,provincia_indec_id
+0,2584554505,2020-01-01,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Buenos Aires,Buenos Aires,Mujer,14.0,No,No,6.0
+1,2584554505,2020-01-01,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,36.0,No,No,6.0
+2,3584554505,2020-01-02,Trata,"Extracción forzosa de órganos, tejidos o fluidos",Acusado,Argentina,Buenos Aires,San Francisco Solano,Hombre,60.0,No,No,6.0
+3,594554505,2020-01-02,Trata,Explotación sexual,Acusado,Argentina,Córdoba,Laboulaye,Hombre,No especifica,No,No,14.0
+4,2594554505,2020-01-02,Trata,Persona desaparecida,Victima directa,Paraguay,Buenos Aires,No especifica,Mujer,No especifica,No,No,6.0
+8,7505554505,2020-01-04,Trata,Oferta laboral engañosa,Victima directa,Argentina,Buenos Aires,No especifica,Mujer,No especifica,No,No,6.0
+9,7505554505,2020-01-04,Trata,Oferta laboral engañosa,Acusado,Otro,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+10,8415554505,2020-01-04,Trata,Persona desaparecida,Victima directa,Paraguay,Buenos Aires,No especifica,Mujer,No especifica,No,No,6.0
+17,525554505,2020-01-07,Trata,"Explotación sexual, explotación sexual niñas, niños y adolescentes",Acusado,Argentina,No especifica,No especifica,Mujer,50.0,No,No,No especifica
+19,1525554505,2020-01-07,Trata,"Persona desaparecida, venta de niños y otros delitos",Victima directa,Argentina,Buenos Aires,Melchor Romero,Mujer,27.0,No,No,6.0
+23,7525554505,2020-01-08,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Melchor Romero,Mujer,No especifica,No,No,6.0
+25,2535554505,2020-01-09,Trata,Posible captación,Victima directa,Argentina,Mendoza,Rivadavia,Mujer,24.0,No,No,50.0
+26,3535554505,2020-01-09,Trata,Posible captación,Victima directa,Argentina,Mendoza,Rivadavia,Mujer,No especifica,No,No,50.0
+29,545554505,2020-01-09,Trata,Posible captación,Victima directa,Argentina,Buenos Aires,No especifica,Mujer,No especifica,No,No,6.0
+30,545554505,2020-01-09,Trata,Posible captación,Acusado,Argentina,Buenos Aires,San Isidro,Mujer,No especifica,No,No,6.0
+35,4555554505,2020-01-11,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,San Miguel,Mujer,No especifica,No,No,6.0
+36,8465554505,2020-01-11,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+37,9465554505,2020-01-11,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Ciudad Autónoma de Buenos Aires,Hombre,50.0,No,No,6.0
+38,565554505,2020-01-11,Trata,"Persona desaparecida, posible captación",Victima directa,Argentina,Buenos Aires,Gobernador Costa,Mujer,24.0,Si,No,6.0
+42,5584654505,2020-01-15,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+46,3594654505,2020-01-16,Trata,Explotación sexual,Acusado,Dominica,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+47,5594654505,2020-01-16,Trata,Explotación laboral,Victima directa,Argentina,Buenos Aires,Marcos Paz,Hombre,No especifica,No,No,6.0
+48,4505654505,2020-01-16,Trata,"Explotación laboral, explotación laboral niñas, niños y adolescentes",Victima directa,Argentina,Buenos Aires,Virrey del Pino,Mujer,No especifica,No,No,6.0
+51,8415654505,2020-01-17,Trata,Explotación sexual,Victima directa,Argentina,Tucumán,San Miguel de Tucumán,Mujer,No especifica,No,No,90.0
+53,1515654505,2020-01-17,Trata,Persona desaparecida,Victima indirecta - familiar,Argentina,Tucumán,Famaillá,Mujer,No especifica,No,No,90.0
+58,5515654505,2020-01-18,Trata,Persona desaparecida,Victima directa,Argentina,Córdoba,Jesus María,Mujer,No especifica,No,No,14.0
+61,9425654505,2020-01-19,Trata,Explotación sexual,Acusado,Argentina,Tucumán,San Miguel de Tucumán,Hombre,No especifica,No,No,90.0
+64,4535654505,2020-01-21,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Los Polvorines,Hombre,No especifica,No,No,6.0
+73,2555654505,2020-01-22,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Villa Tesei,Mujer,28.0,Si,Si,6.0
+74,4555654505,2020-01-23,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Los Polvorines,Hombre,No especifica,No,No,6.0
+75,3555654505,2020-01-23,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Pablo Nogués,Hombre,37.0,No,No,6.0
+76,3555654505,2020-01-23,Trata,Persona desaparecida,Victima indirecta - familiar,Argentina,Buenos Aires,Bella Vista,Mujer,60.0,No,No,6.0
+77,8465654505,2020-01-23,Trata,"Explotación sexual, pornografía infantil",Victima directa,Argentina,Buenos Aires,La Lonja Pilar Centro,Mujer,No especifica,No,No,6.0
+79,8465654505,2020-01-23,Trata,"Explotación sexual, pornografía infantil",Victima directa,Argentina,Buenos Aires,Pilar Centro,Hombre,No especifica,No,No,6.0
+80,565654505,2020-01-23,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Bahía Blanca,Hombre,No especifica,No,No,6.0
+81,7565654505,2020-01-24,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+89,5584754505,2020-01-26,Trata,Posible captación,Victima directa,Argentina,Córdoba,Córdoba,Mujer,No especifica,No,No,14.0
+94,5505754505,2020-01-29,Trata,Persona desaparecida,Victima directa,Paraguay,Buenos Aires,Barracas,Mujer,No especifica,No,No,6.0
+97,515754505,2020-01-29,Trata,Persona desaparecida,Victima directa,Paraguay,Buenos Aires,Barracas,Mujer,No especifica,No,No,6.0
+98,2515754505,2020-01-30,Trata,Persona desaparecida,Victima directa,Paraguay,Buenos Aires,Barracas,Mujer,No especifica,No,No,6.0
+100,6515754505,2020-01-30,Trata,Explotación sexual,Victima directa,Argentina,Corrientes,Esquina,Mujer,No especifica,No,No,18.0
+103,525754505,2020-01-31,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,No especifica,Mujer,No especifica,No,No,6.0
+112,4525754505,2020-02-01,Trata,Posible captación,Acusado,Argentina,Mendoza,GUAYAMALLÉN,Hombre,No especifica,No,No,50.0
+120,3545754505,2020-02-02,Trata,Explotación laboral,Victima directa,Argentina,Buenos Aires,Cañuelas,Hombre,No especifica,No,No,6.0
+132,3565754505,2020-02-05,Trata,Abuso sexual infantil,Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+136,7575754505,2020-02-07,Trata,Pornografía infantil,Acusado,Argentina,Neuquén,Neuquén,Hombre,No especifica,No,No,58.0
+137,9484845505,2020-02-07,Trata,Explotación sexual,Victima directa,Argentina,Buenos Aires,La Plata,Mujer,No especifica,No,No,6.0
+138,1584845505,2020-02-07,Trata,Abuso sexual infantil,Acusado,Argentina,Santa Fe,Santo Tomé,Hombre,No especifica,No,No,82.0
+139,1584845505,2020-02-07,Trata,Abuso sexual infantil,Acusado,Argentina,Santa Fe,Santo Tomé,Hombre,No especifica,No,No,82.0
+140,1584845505,2020-02-07,Trata,Abuso sexual infantil,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+145,4594845505,2020-02-09,Trata,Explotación sexual,Victima directa,Argentina,Santa Fe,Santa Fe,Mujer,59.0,No,No,82.0
+146,4594845505,2020-02-09,Trata,Explotación sexual,Acusado,Argentina,Santa Fe,Santa Fe,Hombre,No especifica,No,No,82.0
+147,4594845505,2020-02-09,Trata,Explotación sexual,Victima indirecta - familiar,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+151,4505845505,2020-02-11,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Mendoza,Palmira,Mujer,No especifica,No,No,50.0
+152,4505845505,2020-02-11,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Mendoza,- Palmira,Hombre,33.0,No,No,50.0
+156,4505845505,2020-02-11,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Mendoza,Palmira,Mujer,19.0,No,No,50.0
+157,4505845505,2020-02-11,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Mendoza,Palmira,Mujer,17.0,No,No,50.0
+160,2515845505,2020-02-12,Trata,Persona desaparecida,Victima indirecta - familiar,Paraguay,Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,No especifica,No,No,6.0
+161,3515845505,2020-02-12,Trata,"Explotación laboral, posible captación",Victima indirecta - familiar,Peru,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+162,3515845505,2020-02-12,Trata,"Explotación laboral, posible captación",Victima directa,Peru,No especifica,No especifica,Mujer,20.0,No,No,No especifica
+164,2525845505,2020-02-13,Trata,Oferta laboral engañosa,Victima indirecta - familiar,Peru,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+165,2525845505,2020-02-13,Trata,Oferta laboral engañosa,Victima directa,Peru,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+166,8435845505,2020-02-14,Trata,Abuso sexual infantil,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+168,7535845505,2020-02-14,Trata,Explotación laboral,Victima directa,Argentina,Tucumán,San Miguel de Tucumán,Hombre,No especifica,No,No,90.0
+169,7535845505,2020-02-14,Trata,Explotación laboral,Victima directa,Argentina,Tucumán,San Miguel de Tucumán,Hombre,No especifica,No,No,90.0
+171,1545845505,2020-02-14,Trata,Explotación sexual,Victima directa,Argentina,Santa Fe,Santa Fe,Mujer,No especifica,No,No,82.0
+172,1545845505,2020-02-14,Trata,Explotación sexual,Acusado,Argentina,Santa Fe,Santa Fe,Hombre,No especifica,No,No,82.0
+173,1545845505,2020-02-14,Trata,Explotación sexual,Victima indirecta - familiar,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+174,3545845505,2020-02-15,Trata,Trata de personas,Acusado,Haiti,Buenos Aires,Villa Sarmiento,Mujer,35.0,No,No,6.0
+175,3545845505,2020-02-15,Trata,Trata de personas,Acusado,Camerun,Buenos Aires,Villa Sarmiento,Hombre,35.0,No,No,6.0
+180,2555845505,2020-02-16,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Luján,Mujer,24.0,No,No,6.0
+181,2555845505,2020-02-16,Trata,Explotación sexual,Victima directa,Argentina,Buenos Aires,Luján,Mujer,22.0,Si,No,6.0
+185,2565845505,2020-02-18,Trata,Explotación sexual,Acusado,Sin descripcion,Buenos Aires,Temperley,Mujer,No especifica,No,No,6.0
+186,7565845505,2020-02-18,Trata,Oferta laboral engañosa,Acusado,Argentina,Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,No especifica,No,No,6.0
+188,6575845505,2020-02-19,Trata,Explotación sexual,Acusado,Paraguay,Buenos Aires,No especifica,Mujer,No especifica,No,No,6.0
+189,6575845505,2020-02-19,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+190,1584945505,2020-02-20,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,Bolivia,Buenos Aires,La Tablada,Hombre,45.0,No,No,6.0
+191,3584945505,2020-02-20,Trata,Abuso sexual de menores,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+192,3584945505,2020-02-20,Trata,Abuso sexual de menores,Victima indirecta - familiar,Argentina,Buenos Aires,Lomas de Zamora,Mujer,No especifica,No,No,6.0
+194,7584945505,2020-02-20,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,José Mármol,Mujer,14.0,No,No,6.0
+196,2594945505,2020-02-21,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+197,3594945505,2020-02-21,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,39.0,No,No,No especifica
+205,5515945505,2020-02-25,Trata,"Explotación sexual, abuso sexual infantil",Victima directa,Argentina,Corrientes,Esquina,Mujer,No especifica,No,No,18.0
+209,7525945505,2020-02-26,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+210,535945505,2020-02-26,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+213,5535945505,2020-02-26,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,No especifica,Mujer,63.0,No,Si,6.0
+215,5535945505,2020-02-26,Trata,Persona desaparecida,Victima indirecta - familiar,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+228,4555945505,2020-02-28,Trata,Oferta laboral engañosa,Acusado,Argentina,Buenos Aires,Buenos Aires,Hombre,No especifica,No,No,6.0
+229,5555945505,2020-02-28,Trata,Oferta laboral engañosa,Acusado,Argentina,Buenos Aires,Buenos Aires,Hombre,No especifica,No,No,6.0
+230,6555945505,2020-02-28,Trata,"Posible abuso sexual infantil, violencia física",Acusado,Argentina,Buenos Aires,Lanús Oeste,Hombre,No especifica,No,No,6.0
+231,6555945505,2020-02-28,Trata,"Posible abuso sexual infantil, violencia física",Victima directa,Argentina,Buenos Aires,Lanús Oeste,Hombre,11.0,No,No,6.0
+232,7545945505,2020-02-27,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,20.0,No,No,No especifica
+236,1565945505,2020-02-29,Trata,Problemas de salud mental,Victima directa,Argentina,Río Negro,San Carlos de Bariloche,Hombre,20.0,No,No,62.0
+237,7565945505,2020-03-01,Trata,Posible captación,Acusado,Argentina,Mendoza,Rodeo de la Cruz,Mujer,No especifica,No,No,50.0
+238,8484055505,2020-03-03,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Guernica,Mujer,14.0,Si,No,6.0
+241,584055505,2020-03-03,Trata,Publicidad de oferta sexual,Victima directa,Argentina,Buenos Aires,La Plata,Mujer,No especifica,No,No,6.0
+243,7584055505,2020-03-04,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+244,7584055505,2020-03-04,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+246,3584055505,2020-03-03,Trata,Explotación laboral,Victima directa,Argentina,Misiones,Cerro Azul,Hombre,No especifica,No,No,54.0
+248,4594055505,2020-03-04,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+249,4594055505,2020-03-04,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+250,8405055505,2020-03-04,Trata,"Explotación laboral, oferta laboral engañosa, posible captación, reducción a la servidumbre o situaciones análogas",Imputado,China,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+252,7505055505,2020-03-05,Trata,Explotación laboral,Victima directa,Paraguay,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+253,7505055505,2020-03-05,Trata,Explotación laboral,Victima directa,Paraguay,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+254,7505055505,2020-03-05,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+261,8435055505,2020-03-06,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+262,3535055505,2020-03-07,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+266,3545055505,2020-03-08,Trata,Explotación laboral,Victima directa,Paraguay,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+267,3545055505,2020-03-08,Trata,Explotación laboral,Victima directa,Paraguay,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+268,3545055505,2020-03-08,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+272,5555055505,2020-03-09,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Libertad,Transexual,No especifica,No,No,6.0
+275,1565055505,2020-03-10,Trata,Explotación laboral,Acusado,Bolivia,Buenos Aires,Del Viso,Hombre,No especifica,No,No,6.0
+278,2565055505,2020-03-10,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+279,2565055505,2020-03-10,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+292,3594155505,2020-03-12,Trata,Explotación sexual,Victima directa,Argentina,Santa Fe,Santa Fe,Mujer,No especifica,No,No,82.0
+294,8405155505,2020-03-13,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,30.0,No,No,No especifica
+295,8405155505,2020-03-13,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,24.0,No,No,No especifica
+296,505155505,2020-03-13,Trata,Explotación sexual,Victima directa,Paraguay,Buenos Aires,Bahía Blanca,Mujer,60.0,No,No,6.0
+300,4505155505,2020-03-13,Trata,"Ofrecimiento, violencia intrafamiliar",Victima directa,Argentina,Misiones,Posadas,Mujer,14.0,No,No,54.0
+301,4505155505,2020-03-13,Trata,"Ofrecimiento, violencia intrafamiliar",Acusado,Argentina,Misiones,Posadas,Mujer,45.0,No,No,54.0
+302,4505155505,2020-03-13,Trata,"Ofrecimiento, violencia intrafamiliar",Acusado,Argentina,Misiones,Posadas,Hombre,30.0,No,No,54.0
+303,4505155505,2020-03-13,Trata,"Ofrecimiento, violencia intrafamiliar",Victima indirecta - familiar,Argentina,Misiones,Posadas Posadas,Mujer,16.0,No,No,54.0
+304,4505155505,2020-03-13,Trata,"Ofrecimiento, violencia intrafamiliar",Victima indirecta - familiar,Argentina,Misiones,Posadas,Mujer,No especifica,No,No,54.0
+305,4505155505,2020-03-13,Trata,"Ofrecimiento, violencia intrafamiliar",Victima indirecta - familiar,Argentina,Misiones,Posadas,Mujer,No especifica,No,No,54.0
+306,4505155505,2020-03-13,Trata,"Ofrecimiento, violencia intrafamiliar",Victima indirecta - familiar,Argentina,Misiones,Posadas,Mujer,11.0,No,No,54.0
+307,7505155505,2020-03-13,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,26.0,No,No,No especifica
+308,515155505,2020-03-13,Trata,Explotación sexual,Acusado,Paraguay,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+309,1515155505,2020-03-13,Trata,Explotación sexual,Acusado,Paraguay,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+311,3515155505,2020-03-14,Trata,Explotación sexual,Victima directa,Argentina,Buenos Aires,No especifica,Mujer,19.0,No,No,6.0
+318,5515155505,2020-03-14,Trata,Explotación sexual,Victima directa,Argentina,Buenos Aires,No especifica,Mujer,19.0,No,No,6.0
+322,9435155505,2020-03-16,Trata,Abuso sexual infantil,Acusado,Argentina,Buenos Aires,No especifica,Mujer,No especifica,No,No,6.0
+325,3535155505,2020-03-17,Trata,Violencia familiar,Victima directa,Argentina,Santa Fe,Santa Fe,Hombre,27.0,No,No,82.0
+328,3545155505,2020-03-18,Trata,Explotación sexual,Victima directa,Argentina,Buenos Aires,Ranelagh,Mujer,No especifica,No,No,6.0
+329,3545155505,2020-03-18,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Ranelagh,Hombre,No especifica,No,No,6.0
+330,5545155505,2020-03-18,Trata,Explotación laboral,Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+331,5545155505,2020-03-18,Trata,Explotación laboral,Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+332,5545155505,2020-03-18,Trata,Explotación laboral,Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+334,7545155505,2020-03-18,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+335,2535255505,2020-03-28,Trata,Persona desaparecida,Victima directa,Brasil,No especifica,No especifica,Transexual,24.0,No,No,No especifica
+343,5575255505,2020-04-04,Trata,Datos falsos,Victima directa,Venezuela,Buenos Aires,Paso del Rey,Mujer,32.0,No,No,6.0
+348,8415355505,2020-04-07,Trata,Servidumbre doméstica,Victima directa,Paraguay,Buenos Aires,Caseros,Mujer,57.0,No,No,6.0
+355,3525355505,2020-04-08,Trata,Estupro,Victima directa,Argentina,Buenos Aires,Mar del Tuyú,Hombre,17.0,No,No,6.0
+358,6535355505,2020-04-10,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Libertad,Transexual,43.0,No,No,6.0
+361,6565355505,2020-04-13,Trata,Explotación laboral,Acusado,Bolivia,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+367,3584455505,2020-04-16,Trata,Salud - vacunación antigripal,Victima indirecta - familiar,Argentina,Entre Ríos,Concordia,Mujer,70.0,No,No,30.0
+368,594455505,2020-04-16,Trata,Explotación sexual,Victima directa,Argentina,Salta,Cerrillos,Mujer,No especifica,No,No,66.0
+373,8465155505,2020-03-21,Trata,Oferta laboral engañosa,Victima directa,Argentina,Corrientes,Paso de los Libres,Mujer,15.0,No,No,18.0
+374,8465155505,2020-03-21,Trata,Oferta laboral engañosa,Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+375,8405255505,2020-03-23,Trata,Privacion ilegitima de la libertad,Victima directa,Argentina,Buenos Aires,Pergamino,Mujer,No especifica,No,No,6.0
+376,2545255505,2020-03-30,Trata,Ofrecimiento,Victima directa,Argentina,Córdoba,Villa Carlos Paz,Mujer,67.0,No,No,14.0
+377,8405455505,2020-04-17,Trata,Violencia familiar,Acusado,Peru,No especifica,No especifica,Mujer,30.0,No,No,No especifica
+378,9405455505,2020-04-17,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Paraguay,No especifica,No especifica,Mujer,15.0,No,No,No especifica
+391,6515455505,2020-04-19,Trata,"Explotación sexual, covid 19",Victima directa,Paraguay,Buenos Aires,La Plata,Mujer,No especifica,No,No,6.0
+399,5535455505,2020-04-21,Trata,"Explotación sexual, posible captación",Victima directa,Paraguay,No especifica,No especifica,Mujer,27.0,No,No,No especifica
+400,7535455505,2020-04-21,Trata,Explotación laboral,Acusado,Bolivia,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+401,9445455505,2020-04-21,Trata,Violencia familiar,Victima indirecta - familiar,Argentina,No especifica,No especifica,Hombre,4.0,No,No,No especifica
+402,9445455505,2020-04-21,Trata,Violencia familiar,Victima indirecta - familiar,Argentina,No especifica,No especifica,Hombre,2.0,No,No,No especifica
+404,1545455505,2020-04-21,Trata,Abuso sexual infantil,Victima directa,Argentina,Buenos Aires,San Nicolás de Los Arroyos,Mujer,6.0,No,No,6.0
+405,1545455505,2020-04-21,Trata,Abuso sexual infantil,Victima directa,Argentina,Buenos Aires,San Nicolás de Los Arroyos,Mujer,12.0,No,No,6.0
+406,1545455505,2020-04-21,Trata,Abuso sexual infantil,Victima directa,Argentina,Buenos Aires,San Nicolás de Los Arroyos,Mujer,13.0,No,No,6.0
+408,1545455505,2020-04-21,Trata,Abuso sexual infantil,Victima indirecta - familiar,Argentina,Buenos Aires,San Nicolás de Los Arroyos,Mujer,No especifica,No,No,6.0
+427,9415555505,2020-04-28,Trata,Explotación laboral,Victima directa,Argentina,Misiones,No especifica,Mujer,No especifica,No,No,54.0
+430,515555505,2020-04-28,Trata,Explotación sexual,Acusado,Argentina,Santa Fe,San Lorenzo,Hombre,52.0,No,No,82.0
+431,515555505,2020-04-28,Trata,Explotación sexual,Victima indirecta - familiar,Argentina,Entre Ríos,Concordia,Mujer,12.0,No,No,30.0
+444,1525555505,2020-04-28,Trata,Venta de niños y otros delitos,Victima directa,Argentina,No especifica,No especifica,Hombre,1.0,No,No,No especifica
+448,2535555505,2020-04-29,Trata,Explotación laboral,Victima directa,Argentina,Formosa,Villa Escobar,Mujer,No especifica,No,No,34.0
+449,2535555505,2020-04-29,Trata,Explotación laboral,Victima indirecta - familiar,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+464,584655505,2020-05-06,Trata,Servidumbre doméstica,Victima directa,Argentina,No especifica,No especifica,Mujer,28.0,No,No,No especifica
+466,3584655505,2020-05-06,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Mujer,28.0,No,No,No especifica
+467,594655505,2020-05-07,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Banfield,Mujer,No especifica,No,No,6.0
+468,594655505,2020-05-07,Trata,Explotación sexual,Victima indirecta - familiar,Argentina,No especifica,No especifica,Mujer,No especifica,No,Si,No especifica
+470,3505655505,2020-05-10,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,González Catán,Mujer,21.0,No,No,6.0
+471,3505655505,2020-05-10,Trata,Persona desaparecida,Acusado,Argentina,Buenos Aires,González Catán,Hombre,21.0,No,No,6.0
+477,7525655505,2020-05-12,Trata,Otro,Victima directa,Argentina,No especifica,No especifica,Mujer,4.0,No,No,No especifica
+478,7525655505,2020-05-12,Trata,Otro,Victima indirecta - familiar,Argentina,No especifica,No especifica,Hombre,26.0,No,No,No especifica
+479,7525655505,2020-05-12,Trata,Otro,Imputado,Argentina,No especifica,No especifica,Hombre,47.0,No,No,No especifica
+497,2575655505,2020-05-17,Trata,Posible captación,Victima directa,Argentina,Formosa,Formosa,Mujer,21.0,No,No,34.0
+502,9494755505,2020-05-19,Trata,"Explotación laboral, reducción a la servidumbre o situaciones análogas",Victima directa,Argentina,No especifica,No especifica,Mujer,29.0,No,No,No especifica
+503,9494755505,2020-05-19,Trata,"Explotación laboral, reducción a la servidumbre o situaciones análogas",Victima directa,Argentina,Corrientes,No especifica,Hombre,25.0,No,No,18.0
+504,9494755505,2020-05-19,Trata,"Explotación laboral, reducción a la servidumbre o situaciones análogas",Imputado,Argentina,Buenos Aires,General Rodriguez,Mujer,No especifica,No,No,6.0
+505,3594755505,2020-05-19,Trata,Explotación laboral,Acusado,Argentina,Buenos Aires,General Rodriguez,Mujer,No especifica,No,No,6.0
+506,8405755505,2020-05-19,Trata,Explotación sexual,Victima directa,Paraguay,Buenos Aires,Olivos,Mujer,30.0,No,No,6.0
+509,6505755505,2020-05-20,Trata,Explotación laboral,Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+510,8415755505,2020-05-20,Trata,Otro,Victima directa,Argentina,Catamarca,San Antonio,Mujer,8.0,No,No,10.0
+511,8415755505,2020-05-20,Trata,Otro,Victima directa,Argentina,Catamarca,San Antonio,Mujer,No especifica,No,No,10.0
+512,8415755505,2020-05-20,Trata,Otro,Acusado,Argentina,Catamarca,San Antonio,Hombre,No especifica,No,No,10.0
+513,8425755505,2020-05-21,Trata,Explotación sexual,Acusado,Paraguay,Buenos Aires,Buenos Aires,Mujer,50.0,No,No,6.0
+514,1594655505,2020-05-07,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Paraguay,Buenos Aires,Buenos Aires,Mujer,50.0,No,No,6.0
+515,7525755505,2020-05-23,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Gregorio de Laferrere,Mujer,21.0,No,No,6.0
+518,8435755505,2020-05-23,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Gregorio de Laferrere,Mujer,No especifica,No,No,6.0
+520,6535755505,2020-05-24,Trata,Explotación sexual,Acusado,Peru,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+522,8445755505,2020-05-24,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,San Martín,Mujer,15.0,No,No,6.0
+526,4545755505,2020-05-25,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,San Martín,Mujer,15.0,No,No,6.0
+527,5545755505,2020-05-25,Trata,Posible captación,Acusado,Argentina,Buenos Aires,Tandil,Mujer,No especifica,No,No,6.0
+529,8455755505,2020-05-26,Trata,"Grooming, pornografía infantil",Victima directa,Argentina,Corrientes,No especifica,Hombre,13.0,No,No,18.0
+553,3505846505,2020-06-02,Trata,"Explotación sexual, persona desaparecida",Victima directa,Argentina,No especifica,No especifica,Mujer,29.0,No,No,No especifica
+554,3505846505,2020-06-02,Trata,"Explotación sexual, persona desaparecida",Victima indirecta - familiar,Argentina,Tierra del Fuego,Río Grande,Mujer,61.0,No,No,94.0
+563,2515846505,2020-06-04,Trata,Explotación laboral,Acusado,Argentina,Entre Ríos,San Jose de Feliciano,Mujer,No especifica,No,No,30.0
+564,6515846505,2020-06-04,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+565,6515846505,2020-06-04,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+572,545846505,2020-06-06,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Tucumán,Santa Ana,Hombre,40.0,No,No,90.0
+573,545846505,2020-06-06,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Tucumán,Santa Ana,Mujer,16.0,No,No,90.0
+574,545846505,2020-06-06,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Tucumán,Santa Ana,Mujer,17.0,No,No,90.0
+587,505946505,2020-06-17,Trata,Explotación laboral,Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+588,4505946505,2020-06-18,Trata,Pornografía infantil,Imputado,Argentina,Buenos Aires,Verónica,Hombre,19.0,No,No,6.0
+589,4505946505,2020-06-18,Trata,Pornografía infantil,Victima directa,Argentina,No especifica,No especifica,Mujer,14.0,No,No,No especifica
+611,7505845505,2020-02-11,Trata,Explotación laboral,Victima directa,Bolivia,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+612,7505845505,2020-02-11,Trata,Explotación laboral,Victima directa,Bolivia,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+613,9415845505,2020-02-11,Trata,Oferta laboral engañosa,Victima directa,Argentina,Buenos Aires,Villa Luzuriaga,Hombre,No especifica,No,No,6.0
+614,9415845505,2020-02-11,Trata,Oferta laboral engañosa,Victima indirecta - familiar,Argentina,Buenos Aires,Villa Luzuriaga,Mujer,No especifica,No,No,6.0
+615,3535946505,2020-06-24,Trata,"Explotación laboral niñas, niños y adolescentes, violencia física a niños",Victima directa,Argentina,No especifica,No especifica,Hombre,12.0,No,No,No especifica
+616,3535946505,2020-06-24,Trata,"Explotación laboral niñas, niños y adolescentes, violencia física a niños",Victima directa,Argentina,No especifica,No especifica,Hombre,14.0,No,No,No especifica
+619,6535946505,2020-06-24,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,San Miguel,Transexual,No especifica,No,No,6.0
+621,2545946505,2020-06-25,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Paraguay,Buenos Aires,Morón,Mujer,No especifica,No,No,6.0
+622,4545946505,2020-06-25,Trata,"Explotación laboral niñas, niños y adolescentes",Victima directa,Argentina,Buenos Aires,Berazategui,Mujer,No especifica,No,No,6.0
+626,6545946505,2020-06-25,Trata,Oferta laboral engañosa,Victima directa,Peru,Mendoza,Guaymallén,Mujer,No especifica,No,No,50.0
+632,5565946505,2020-06-28,Trata,Grooming,Victima directa,Argentina,Buenos Aires,Los Cardales,Mujer,14.0,No,No,6.0
+640,6575946505,2020-06-30,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,San Miguel,Transexual,No especifica,No,No,6.0
+642,584056505,2020-07-01,Trata,Explotación sexual,Acusado,Argentina,Córdoba,salsipuedes,Hombre,No especifica,No,No,14.0
+647,1594056505,2020-07-03,Trata,Explotación laboral,Victima directa,Paraguay,No especifica,No especifica,Mujer,47.0,No,No,No especifica
+648,1594056505,2020-07-03,Trata,Explotación laboral,Victima directa,Argentina,Buenos Aires,No especifica,Mujer,95.0,No,No,6.0
+654,9415056505,2020-07-05,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Santa Fe,Santa Fe,Mujer,15.0,No,No,82.0
+661,6525056505,2020-07-08,Trata,Posible captación,Victima directa,Venezuela,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+666,1535056505,2020-07-09,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Córdoba,Villa Allende,Mujer,50.0,No,No,14.0
+672,5555056505,2020-07-15,Trata,"Explotación sexual, explotación sexual niñas, niños y adolescentes, posible captación, traslado de personas",Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+673,5555056505,2020-07-15,Trata,"Explotación sexual, explotación sexual niñas, niños y adolescentes, posible captación, traslado de personas",Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+674,5555056505,2020-07-15,Trata,"Explotación sexual, explotación sexual niñas, niños y adolescentes, posible captación, traslado de personas",Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+675,5555056505,2020-07-15,Trata,"Explotación sexual, explotación sexual niñas, niños y adolescentes, posible captación, traslado de personas",Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+678,8465056505,2020-07-16,Trata,Explotación sexual,Victima directa,Brasil,Tierra del Fuego,Rio Grande,Mujer,No especifica,No,No,94.0
+679,8465056505,2020-07-16,Trata,Explotación sexual,Acusado,Argentina,Tierra del Fuego,Tolhuin,Hombre,No especifica,No,No,94.0
+680,3565056505,2020-07-17,Trata,Explotación sexual,Victima directa,Argentina,Buenos Aires,Mar del Plata,Mujer,23.0,No,No,6.0
+681,5565056505,2020-07-17,Trata,Explotación laboral,Acusado,Chile,Tierra del Fuego,Río Grande,Hombre,No especifica,No,No,94.0
+692,2584156505,2020-07-20,Trata,Persona desaparecida,Victima directa,Uruguay,No especifica,No especifica,Mujer,23.0,No,No,No especifica
+699,6584156505,2020-07-21,Trata,Explotación sexual,Victima directa,Argentina,Córdoba,Río Cuarto,Mujer,33.0,No,No,14.0
+700,6584156505,2020-07-21,Trata,Explotación sexual,Victima directa,Argentina,Córdoba,Río Cuarto,Mujer,40.0,No,No,14.0
+704,8405156505,2020-07-22,Trata,Explotación laboral,Acusado,Bolivia,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+705,8405156505,2020-07-22,Trata,Explotación laboral,Acusado,Bolivia,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+706,8405156505,2020-07-22,Trata,Explotación laboral,Victima directa,Bolivia,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+710,9415156505,2020-07-24,Trata,Robo de identidad,Acusado,Argentina,Santa Fe,Rafaela,Mujer,19.0,No,No,82.0
+712,4515156505,2020-07-25,Trata,Explotación laboral,Acusado,Argentina,Buenos Aires,Melchor Romero,Mujer,No especifica,No,No,6.0
+716,9425156505,2020-07-26,Trata,Explotación sexual,Victima directa,Argentina,Buenos Aires,Florencio Varela,Mujer,21.0,No,No,6.0
+717,9425156505,2020-07-26,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Florencio Varela,Mujer,39.0,No,No,6.0
+718,525156505,2020-07-26,Trata,Explotación sexual,Victima directa,Argentina,Buenos Aires,Florencio Varela,Mujer,21.0,No,No,6.0
+719,525156505,2020-07-26,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Florencio Varela,Mujer,39.0,No,No,6.0
+720,2535156505,2020-07-28,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Mendoza,Godoy Cruz,Hombre,50.0,No,No,50.0
+734,565156505,2020-07-31,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Mujer,27.0,No,No,No especifica
+735,565156505,2020-07-31,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Mujer,24.0,No,No,No especifica
+736,1565156505,2020-07-31,Trata,Explotación laboral,Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+737,1565156505,2020-07-31,Trata,Explotación laboral,Acusado,Argentina,No especifica,No especifica,Hombre,50.0,No,No,No especifica
+744,6594256505,2020-08-01,Trata,Explotación laboral,Victima directa,Venezuela,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+745,6594256505,2020-08-01,Trata,Explotación laboral,Victima directa,Venezuela,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+746,3505256505,2020-08-02,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,29.0,No,No,No especifica
+747,505256505,2020-08-02,Trata,Oferta laboral engañosa,Victima directa,Venezuela,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+748,505256505,2020-08-02,Trata,Oferta laboral engañosa,Acusado,Argentina,Río Negro,Las Grutas,Hombre,No especifica,No,No,62.0
+749,4505256505,2020-08-02,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Misiones,San Javier,Mujer,43.0,No,No,54.0
+750,4505256505,2020-08-02,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Misiones,San Javier,Mujer,14.0,No,No,54.0
+751,6505256505,2020-08-02,Trata,Explotación sexual,Victima directa,Argentina,Neuquén,Neuquén,Hombre,24.0,No,No,58.0
+758,6525256505,2020-08-04,Trata,Explotación sexual,Acusado,Paraguay,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+759,6525256505,2020-08-04,Trata,Explotación sexual,Acusado,Paraguay,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+760,6525256505,2020-08-04,Trata,Explotación sexual,Acusado,Paraguay,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+763,6535256505,2020-08-04,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,44.0,No,No,No especifica
+764,6535256505,2020-08-04,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,41.0,No,No,No especifica
+765,6535256505,2020-08-04,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+766,7535256505,2020-08-04,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+767,7535256505,2020-08-04,Trata,Explotación sexual,Victima directa,Paraguay,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+768,7535256505,2020-08-04,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+769,5545256505,2020-08-05,Trata,Explotación laboral,Victima directa,Paraguay,No especifica,No especifica,Mujer,21.0,No,No,No especifica
+770,6545256505,2020-08-05,Trata,Explotación sexual,Victima directa,Argentina,Buenos Aires,Avellaneda,Mujer,No especifica,No,No,6.0
+771,8455256505,2020-08-05,Trata,"Explotación sexual, posible captación",Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+772,1555256505,2020-08-05,Trata,Venta de niños y otros delitos,Victima directa,Argentina,Tucumán,ALDERETE,Mujer,32.0,No,No,90.0
+773,1555256505,2020-08-05,Trata,Venta de niños y otros delitos,Acusado,Argentina,No especifica,No especifica,Hombre,49.0,No,No,No especifica
+775,5565256505,2020-08-07,Trata,Otro,Acusado,Argentina,Chubut,Comodoro Rivadavia,Hombre,42.0,No,No,26.0
+776,5565256505,2020-08-07,Trata,Otro,Victima indirecta - familiar,Bolivia,Chubut,Comodoro Rivadavia,Mujer,No especifica,No,No,26.0
+777,8475256505,2020-08-07,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,Peru,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+778,9475256505,2020-08-07,Trata,Oferta laboral engañosa,Acusado,Sin descripcion,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+780,4575256505,2020-08-07,Trata,Explotación sexual,Victima directa,Argentina,Neuquén,Neuquén,Hombre,No especifica,No,No,58.0
+784,4594356505,2020-08-09,Trata,Abuso sexual infantil,Acusado,Argentina,Chubut,Comodoro Rivadavia,Hombre,No especifica,No,No,26.0
+785,4594356505,2020-08-09,Trata,Abuso sexual infantil,Victima indirecta - familiar,Bolivia,Chubut,Comodoro Rivadavia,Mujer,No especifica,No,No,26.0
+790,6505356505,2020-08-11,Trata,Explotación laboral,Victima directa,Paraguay,Buenos Aires,Ciudad Autónoma de Buenos Aires Ciudad Autónoma de Buenos Aires,Mujer,35.0,No,No,6.0
+794,9415356505,2020-08-11,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Tucumán,El Bañado,Hombre,50.0,No,No,90.0
+795,9415356505,2020-08-11,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Tucumán,Tafí del Valle,Mujer,43.0,No,No,90.0
+796,9415356505,2020-08-11,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Tucumán,Tafí del Valle,Hombre,20.0,No,No,90.0
+799,5525356505,2020-08-12,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Buenos Aires,Del Viso,Mujer,40.0,No,No,6.0
+807,555356505,2020-08-14,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+810,3565356505,2020-08-14,Trata,Explotación sexual,Victima directa,Chile,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+813,5505456505,2020-08-16,Trata,Explotación sexual,Acusado,Paraguay,Buenos Aires,Caseros,Mujer,No especifica,No,No,6.0
+814,2515456505,2020-08-17,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Esteban Echeverría,Mujer,No especifica,No,No,6.0
+815,7515456505,2020-08-17,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Esteban Echeverría,Mujer,No especifica,No,No,6.0
+820,8455456505,2020-08-18,Trata,Venta de niños y otros delitos,Victima directa,Bolivia,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+821,8455456505,2020-08-18,Trata,Venta de niños y otros delitos,Acusado,Peru,Buenos Aires,Ciudad Autónoma de Buenos Aires,Hombre,No especifica,No,No,6.0
+822,9455456505,2020-08-18,Trata,Explotación sexual,Victima directa,Paraguay,Buenos Aires,José León Suárez,Mujer,38.0,No,No,6.0
+823,9455456505,2020-08-18,Trata,Explotación sexual,Acusado,Paraguay,Buenos Aires,Cuartel V,Hombre,50.0,No,No,6.0
+824,5555456505,2020-08-18,Trata,Venta de niños y otros delitos,Victima directa,Bolivia,No especifica,No especifica,Mujer,23.0,No,No,No especifica
+827,5555456505,2020-08-18,Trata,Venta de niños y otros delitos,Acusado,Peru,Buenos Aires,Ciudad Autónoma de Buenos Aires,Hombre,No especifica,No,No,6.0
+834,1575456505,2020-08-19,Trata,Explotación sexual,Victima directa,Paraguay,Buenos Aires,José León Suárez,Mujer,No especifica,No,No,6.0
+835,1575456505,2020-08-19,Trata,Explotación sexual,Acusado,Paraguay,Buenos Aires,Cuartel V,Hombre,No especifica,No,No,6.0
+836,575456505,2020-08-19,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+839,1584556505,2020-08-20,Trata,"Explotación laboral niñas, niños y adolescentes",Victima directa,Argentina,Tucumán,ALBERDI,Hombre,17.0,No,No,90.0
+840,1584556505,2020-08-20,Trata,"Explotación laboral niñas, niños y adolescentes",Victima directa,Argentina,Tucumán,ALBERDI,Hombre,16.0,No,No,90.0
+841,3584556505,2020-08-20,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+846,2515556505,2020-08-21,Trata,Intento de secuestro,Victima directa,Argentina,Río Negro,El Bolsón,Mujer,14.0,No,No,62.0
+847,5515556505,2020-08-21,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Sin descripcion,Buenos Aires,No especifica,Hombre,No especifica,No,No,6.0
+855,2575556505,2020-08-23,Trata,Otro,Victima directa,Argentina,Santa Fe,Lanteri,Mujer,11.0,No,No,82.0
+856,2575556505,2020-08-23,Trata,Otro,Acusado,Argentina,Santa Fe,Lanteri,Hombre,19.0,No,No,82.0
+857,6584656505,2020-08-24,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+858,6584656505,2020-08-24,Trata,Explotación sexual,Victima directa,Paraguay,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+859,6584656505,2020-08-24,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+867,3525656505,2020-08-25,Trata,Explotación sexual,Victima directa,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,21.0,No,No,2.0
+871,3535656505,2020-08-25,Trata,Explotación sexual,Acusado,Senegal,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+872,9445656505,2020-08-26,Trata,Explotación sexual,Victima directa,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,No especifica,No,No,2.0
+880,3555656505,2020-08-26,Trata,Persona desaparecida,Victima directa,Argentina,Misiones,Puerto Iguazú,Mujer,No especifica,No,No,54.0
+881,3555656505,2020-08-26,Trata,Persona desaparecida,Acusado,Argentina,Misiones,Puerto Iguazú,Hombre,No especifica,No,No,54.0
+891,8405756505,2020-08-28,Trata,Persona desaparecida,Victima indirecta - familiar,Argentina,No especifica,No especifica,Mujer,40.0,No,No,No especifica
+894,8435756505,2020-08-30,Trata,Explotación sexual,Victima directa,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,No especifica,No,No,2.0
+896,1545756505,2020-08-31,Trata,Explotación sexual,Victima directa,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,No especifica,No,No,2.0
+899,4575756505,2020-09-01,Trata,Explotación laboral,Victima directa,Estados unidos de america,No especifica,No especifica,Mujer,60.0,No,No,No especifica
+905,3515847505,2020-09-02,Trata,Persona desaparecida,Victima indirecta - familiar,Argentina,No especifica,No especifica,Mujer,39.0,No,No,No especifica
+916,2535847505,2020-09-04,Trata,Explotación laboral,Victima directa,Argentina,Chaco,No especifica,Mujer,No especifica,No,No,22.0
+924,3555947505,2020-09-09,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+925,3555947505,2020-09-09,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+934,5525057505,2020-09-13,Trata,Intento de secuestro,Victima directa,Argentina,Buenos Aires,Cuartel V,Mujer,17.0,No,No,6.0
+935,5525057505,2020-09-13,Trata,Intento de secuestro,Victima indirecta - familiar,Argentina,Buenos Aires,Cuartel V,Mujer,No especifica,No,No,6.0
+936,7525057505,2020-09-13,Trata,Otro,Acusado,Argentina,No especifica,No especifica,Hombre,52.0,No,No,No especifica
+938,5545057505,2020-09-14,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+950,4515157505,2020-09-16,Trata,Explotación laboral,Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+951,4515157505,2020-09-16,Trata,Explotación laboral,Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+957,525157505,2020-09-16,Trata,Explotación laboral,Acusado,Bolivia,No especifica,No especifica,Hombre,30.0,No,No,No especifica
+962,5545157505,2020-09-18,Trata,Traslado de personas,Victima directa,Sin descripcion,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+963,9455157505,2020-09-18,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Misiones,San Javier,Mujer,No especifica,No,No,54.0
+964,9455157505,2020-09-18,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Misiones,San Javier,Mujer,No especifica,No,No,54.0
+971,6515257505,2020-09-22,Trata,Privación ilegítima de la libertad,Victima directa,Venezuela,Buenos Aires,La Matanza,Mujer,25.0,No,No,6.0
+976,5565257505,2020-09-24,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Buenos Aires,Del Viso,Mujer,No especifica,No,No,6.0
+980,7594357505,2020-09-26,Trata,Reducción a la servidumbre o situaciones análogas,Acusado,Bolivia,La Pampa,Santa Rosa,Hombre,No especifica,No,No,42.0
+981,7594357505,2020-09-26,Trata,Reducción a la servidumbre o situaciones análogas,Victima directa,Bolivia,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+982,7594357505,2020-09-26,Trata,Reducción a la servidumbre o situaciones análogas,Victima directa,Bolivia,La Pampa,No especifica,Mujer,No especifica,No,No,42.0
+983,7594357505,2020-09-26,Trata,Reducción a la servidumbre o situaciones análogas,Victima directa,Bolivia,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+984,1525357505,2020-09-27,Trata,Persona desaparecida,Victima directa,Argentina,Jujuy,Palpalá,Mujer,No especifica,No,No,38.0
+1002,6505457505,2020-10-02,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Buenos Aires,Mujer,15.0,No,No,6.0
+1024,4584657505,2020-10-11,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Rafael Castillo,Mujer,13.0,No,No,6.0
+1025,4584657505,2020-10-11,Trata,Persona desaparecida,Acusado,Argentina,No especifica,No especifica,Hombre,17.0,No,No,No especifica
+1026,6584657505,2020-10-11,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Corrientes,Paso de los Libres,Mujer,No especifica,No,No,18.0
+1027,3594657505,2020-10-12,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Mujer,45.0,No,No,No especifica
+1039,2555657505,2020-10-15,Trata,"Explotación sexual niñas, niños y adolescentes",Victima indirecta - familiar,Argentina,No especifica,ensenada,Mujer,No especifica,No,No,No especifica
+1040,2555657505,2020-10-15,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Buenos Aires,Ensenada,Mujer,No especifica,No,No,6.0
+1041,2555657505,2020-10-15,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Buenos Aires,Ensenada,Mujer,No especifica,No,No,6.0
+1042,4555657505,2020-10-15,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,14.0,No,No,No especifica
+1043,5555657505,2020-10-15,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,No especifica,No especifica,Mujer,45.0,No,No,No especifica
+1044,5555657505,2020-10-15,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,13.0,No,No,No especifica
+1045,5555657505,2020-10-15,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,18.0,No,No,No especifica
+1046,4575657505,2020-10-16,Trata,Explotación laboral,Acusado,Venezuela,Buenos Aires,Tigre,Hombre,No especifica,No,No,6.0
+1049,2575757505,2020-10-22,Trata,Publicidad de oferta sexual,Victima indirecta - familiar,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+1050,2575757505,2020-10-22,Trata,Publicidad de oferta sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,17.0,No,No,No especifica
+1054,7594848415,2020-10-25,Trata,Explotación sexual,Acusado,Sin descripcion,Buenos Aires,Trujui,Mujer,No especifica,No,No,6.0
+1055,7594848415,2020-10-25,Trata,Explotación sexual,Acusado,Sin descripcion,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+1056,4505848415,2020-10-25,Trata,Explotación sexual,Acusado,Sin descripcion,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+1057,7505848415,2020-10-25,Trata,Explotación laboral,Acusado,Bolivia,No especifica,No especifica,Hombre,42.0,No,No,No especifica
+1063,5535848415,2020-10-27,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+1064,5535848415,2020-10-27,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+1065,5535848415,2020-10-27,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+1066,6535848415,2020-10-27,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,21.0,No,No,No especifica
+1069,1565848415,2020-10-29,Trata,Explotación sexual,Victima directa,Argentina,Buenos Aires,Ensenada,Mujer,No especifica,No,No,6.0
+1070,1565848415,2020-10-29,Trata,Explotación sexual,Victima indirecta - familiar,Argentina,No especifica,ensenada,Mujer,No especifica,No,No,No especifica
+1071,1565848415,2020-10-29,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Ensenada,Mujer,No especifica,No,No,6.0
+1072,7565848415,2020-10-29,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+1074,1575848415,2020-10-29,Trata,Reducción a la servidumbre o situaciones análogas,Victima directa,Argentina,No especifica,No especifica,Mujer,43.0,No,No,No especifica
+1075,3594948415,2020-10-30,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Misiones,San Javier,Mujer,No especifica,No,No,54.0
+1076,3594948415,2020-10-30,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Misiones,San Javier,Mujer,No especifica,No,No,54.0
+1078,9405948415,2020-10-30,Trata,Explotación sexual,Acusado,Peru,No especifica,No especifica,Mujer,20.0,No,No,No especifica
+1084,6535948415,2020-11-02,Trata,Explotación laboral,Victima directa,Bolivia,No especifica,No especifica,Mujer,19.0,No,No,No especifica
+1085,6545948415,2020-11-02,Trata,Explotación laboral,Victima directa,Bolivia,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+1100,7555058415,2020-11-07,Trata,Posible captación,Acusado,Chile,No especifica,No especifica,Hombre,19.0,No,No,No especifica
+1102,3575058415,2020-11-08,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,Sin descripcion,Córdoba,Córdoba,Hombre,76.0,No,No,14.0
+1103,3575058415,2020-11-08,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,Sin descripcion,Córdoba,Córdoba,Hombre,45.0,No,No,14.0
+1106,1535158415,2020-11-10,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,38.0,No,No,No especifica
+1107,9435158415,2020-11-10,Trata,Servidumbre doméstica,Victima directa,Argentina,No especifica,No especifica,Mujer,37.0,No,No,No especifica
+1119,7565158415,2020-11-12,Trata,Explotación laboral,Victima directa,Argentina,Buenos Aires,Las Flores,Hombre,60.0,No,No,6.0
+1126,2525258415,2020-11-15,Trata,Posible captación,Victima directa,Peru,Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,20.0,No,No,6.0
+1133,7584458415,2020-11-22,Trata,Persona desaparecida,Victima directa,Uruguay,Buenos Aires,Buenos Aires,Mujer,16.0,No,Si,6.0
+1138,6505558415,2020-11-29,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Lanús Este,Mujer,48.0,No,No,6.0
+1139,6505558415,2020-11-29,Trata,Persona desaparecida,Victima indirecta - familiar,Argentina,Buenos Aires,Lanús Este,Mujer,24.0,No,No,6.0
+1142,6515558415,2020-11-29,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Lanús Este,Mujer,No especifica,No,No,6.0
+1144,9455558415,2020-12-01,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Mujer,50.0,No,No,No especifica
+1147,4555558415,2020-12-01,Trata,Explotación sexual,Victima directa,Argentina,Santa Fe,Santa Fe,Mujer,No especifica,No,No,82.0
+1175,1535758415,2020-12-10,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+1180,1545758415,2020-12-11,Trata,Explotación laboral,Victima directa,Argentina,Santiago del Estero,Villa Ojo de Agua,Hombre,52.0,No,No,86.0
+1183,7555758415,2020-12-11,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Buenos Aires,Bella Vista,Mujer,15.0,No,No,6.0
+1197,1545849415,2020-12-15,Trata,Explotación laboral,Acusado,Argentina,No especifica,No especifica,Hombre,42.0,No,No,No especifica
+1232,7545059415,2020-12-25,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Córdoba,Córdoba,Hombre,33.0,No,No,14.0
+1237,505159415,2020-12-29,Trata,Posible captación,Victima directa,Argentina,Salta,Salta,Mujer,19.0,No,No,66.0
+1244,8415159415,2020-12-29,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,No especifica,No especifica,Mujer,37.0,No,No,No especifica
+1248,5505259415,2021-01-05,Trata,Grooming,Victima directa,Argentina,Buenos Aires,Ituzaingó,Mujer,9.0,No,No,6.0
+1249,5505259415,2021-01-05,Trata,Grooming,Victima indirecta - familiar,Argentina,Buenos Aires,San Antonio de Padua,Hombre,31.0,No,No,6.0
+1289,2505459415,2021-01-14,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,42.0,No,No,No especifica
+1301,1555459415,2021-01-17,Trata,Persona desaparecida,Victima directa,Argentina,Santa Fe,Rosario,Mujer,40.0,No,No,82.0
+1302,4555459415,2021-01-17,Trata,Persona desaparecida,Victima directa,Argentina,Santa Fe,Rosario,Mujer,40.0,No,No,82.0
+1310,7505559415,2021-01-19,Trata,Explotación laboral,Victima directa,Bolivia,No especifica,No especifica,Mujer,30.0,No,No,No especifica
+1336,5515840515,2021-01-31,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,40.0,No,No,No especifica
+1345,9415940515,2021-02-04,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,12.0,No,No,No especifica
+1354,8494050515,2021-02-08,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,Argentina,Córdoba,Córdoba,Hombre,0.0,No,No,14.0
+1361,1535050515,2021-02-10,Trata,Explotación sexual,Victima directa,Hungria,No especifica,No especifica,Mujer,54.0,No,No,No especifica
+1378,1575150515,2021-02-16,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,19.0,No,No,No especifica
+1383,2525250515,2021-02-18,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Hombre,53.0,No,No,No especifica
+1384,1525250515,2021-02-18,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Hombre,53.0,No,No,No especifica
+1393,9445350515,2021-02-23,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Hombre,14.0,No,No,No especifica
+1394,2545350515,2021-02-23,Trata,Explotación sexual,Victima directa,Argentina,Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,18.0,No,No,6.0
+1396,2565350515,2021-02-24,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Virrey del Pino,Hombre,45.0,No,No,6.0
+1401,5594450515,2021-02-25,Trata,"Explotación laboral niñas, niños y adolescentes",Victima directa,Argentina,Santiago del Estero,Quimilí,Hombre,16.0,No,No,86.0
+1402,5594450515,2021-02-25,Trata,"Explotación laboral niñas, niños y adolescentes",Victima directa,Argentina,Santiago del Estero,Quimilí,Hombre,17.0,No,No,86.0
+1415,4565450515,2021-02-28,Trata,Posible captación,Victima directa,Argentina,Chaco,Resistencia,Mujer,16.0,No,No,22.0
+1416,4565450515,2021-02-28,Trata,Posible captación,Acusado,Argentina,Chaco,Resistencia,Hombre,40.0,No,No,22.0
+1417,7565450515,2021-02-28,Trata,Posible captación,Victima directa,Argentina,Chaco,Resistencia,Mujer,16.0,No,No,22.0
+1418,7565450515,2021-02-28,Trata,Posible captación,Acusado,Argentina,Chaco,Resistencia,Hombre,42.0,No,No,22.0
+1428,5555550515,2021-03-05,Trata,Explotación laboral,Acusado,Paraguay,No especifica,No especifica,Mujer,60.0,No,No,No especifica
+1435,2525650515,2021-03-07,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,La Plata,Mujer,39.0,No,No,6.0
+1442,5525750515,2021-03-11,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,0.0,No,No,No especifica
+1474,6594051515,2021-03-21,Trata,Posible captación,Victima directa,Argentina,Santa Fe,Pilar,Mujer,27.0,No,No,82.0
+1475,6594051515,2021-03-21,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,13.0,No,No,No especifica
+1476,6594051515,2021-03-21,Trata,Posible captación,Acusado,Argentina,No especifica,No especifica,Hombre,22.0,No,No,No especifica
+1477,8405051515,2021-03-21,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,18.0,No,No,6.0
+1482,4545051515,2021-03-23,Trata,Explotación sexual,Victima directa,Paraguay,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,25.0,No,No,2.0
+1483,7545051515,2021-03-23,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,23.0,No,No,No especifica
+1484,7545051515,2021-03-23,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Hombre,30.0,No,No,No especifica
+1485,9465051515,2021-03-24,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,Bolivia,No especifica,No especifica,Hombre,0.0,No,No,No especifica
+1501,6565251515,2021-03-31,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,19.0,No,No,No especifica
+1505,3525351515,2021-04-02,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,19.0,No,No,No especifica
+1534,3545551515,2021-04-11,Trata,Pornografía infantil,Victima directa,Argentina,No especifica,No especifica,Hombre,14.0,No,No,No especifica
+1543,7525651515,2021-04-14,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Virrey del Pino,Hombre,0.0,No,No,6.0
+1548,3565651515,2021-04-15,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,24.0,No,No,No especifica
+1551,1505751515,2021-04-16,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,No especifica,No especifica,Hombre,60.0,No,No,No especifica
+1552,1505751515,2021-04-16,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,No especifica,No especifica,Mujer,40.0,No,No,No especifica
+1553,8415751515,2021-04-16,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,30.0,No,No,No especifica
+1558,1545751515,2021-04-18,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Mujer,41.0,No,No,No especifica
+1566,1505842515,2021-04-20,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Hombre,2.0,No,No,No especifica
+1567,8445842515,2021-04-21,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,No especifica,Mujer,45.0,No,No,6.0
+1571,6594942515,2021-04-23,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,16.0,No,No,No especifica
+1575,6505942515,2021-04-24,Trata,Posible captación,Acusado,Paraguay,No especifica,No especifica,Hombre,30.0,No,No,No especifica
+1576,7505942515,2021-04-24,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,16.0,No,No,No especifica
+1580,1525942515,2021-04-25,Trata,Ofrecimiento,Acusado,Alemania,Sachsen,Dresden,Hombre,37.0,No,No,No especifica
+1587,5584052515,2021-04-27,Trata,Posible captación,Acusado,Alemania,Sachsen,Dresden,Hombre,40.0,No,No,No especifica
+1588,594052515,2021-04-27,Trata,Posible captación,Acusado,Alemania,Sachsen,Dresden,Hombre,50.0,No,No,No especifica
+1589,6505052515,2021-04-28,Trata,Posible captación,Acusado,Alemania,Sachsen,Dresden,Hombre,40.0,No,No,No especifica
+1600,3575152515,2021-05-04,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,0.0,No,No,No especifica
+1612,5584452515,2021-05-13,Trata,Traslado de personas,Victima directa,Argentina,Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,24.0,No,No,6.0
+1613,5584452515,2021-05-13,Trata,Traslado de personas,Victima indirecta - familiar,Argentina,No especifica,No especifica,Mujer,40.0,No,No,No especifica
+1624,1535552515,2021-05-18,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Morón,Hombre,70.0,No,No,6.0
+1626,7555552515,2021-05-19,Trata,Oferta laboral engañosa,Victima directa,Argentina,No especifica,No especifica,Mujer,24.0,No,No,No especifica
+1635,8484652515,2021-05-20,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Mujer,50.0,No,No,No especifica
+1641,6584652515,2021-05-20,Trata,Oferta laboral engañosa,Victima directa,Argentina,No especifica,No especifica,Mujer,24.0,No,No,No especifica
+1643,9405652515,2021-05-21,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Tigre,Hombre,60.0,No,No,6.0
+1646,6505652515,2021-05-21,Trata,Explotación laboral,Victima directa,Bolivia,No especifica,No especifica,Mujer,40.0,No,No,No especifica
+1647,6505652515,2021-05-21,Trata,Explotación laboral,Victima directa,Bolivia,No especifica,No especifica,Mujer,40.0,No,No,No especifica
+1655,5565652515,2021-05-23,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,25.0,No,No,No especifica
+1657,515752515,2021-05-24,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Tigre,Hombre,40.0,No,No,6.0
+1658,5535752515,2021-05-26,Trata,Explotación sexual,Acusado,Bolivia,No especifica,No especifica,Hombre,40.0,No,No,No especifica
+1659,6535752515,2021-05-26,Trata,Grooming,Victima directa,Argentina,Misiones,Posadas,Hombre,14.0,No,No,54.0
+1660,6535752515,2021-05-26,Trata,Grooming,Imputado,Chile,No especifica,No especifica,Mujer,14.0,No,No,No especifica
+1662,4575752515,2021-05-27,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Ciudad Autónoma de Buenos Aires,Hombre,0.0,No,No,6.0
+1663,6584843515,2021-05-28,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Ciudad Autónoma de Buenos Aires,Hombre,50.0,No,No,6.0
+1664,6584843515,2021-05-28,Trata,Explotación sexual,Acusado,Argentina,Catamarca,San Fernando del Valle de Catamarca,Mujer,50.0,No,No,10.0
+1691,6525943515,2021-06-01,Trata,"Explotación laboral niñas, niños y adolescentes",Victima indirecta - familiar,Argentina,No especifica,No especifica,Mujer,40.0,No,No,No especifica
+1692,6525943515,2021-06-01,Trata,"Explotación laboral niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Hombre,6.0,No,No,No especifica
+1693,6525943515,2021-06-01,Trata,"Explotación laboral niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,8.0,No,No,No especifica
+1694,6525943515,2021-06-01,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,Argentina,No especifica,No especifica,Hombre,40.0,No,No,No especifica
+1695,6525943515,2021-06-01,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,Argentina,Salta,Hickman,Mujer,60.0,No,No,66.0
+1698,7535943515,2021-06-02,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,21.0,No,No,No especifica
+1699,7535943515,2021-06-02,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,21.0,No,No,No especifica
+1700,8445943515,2021-06-02,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,21.0,No,No,No especifica
+1701,8445943515,2021-06-02,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,21.0,No,No,No especifica
+1702,6545943515,2021-06-02,Trata,Explotación sexual,Acusado,Venezuela,No especifica,No especifica,Hombre,40.0,No,No,No especifica
+1704,8455943515,2021-06-02,Trata,Explotación sexual,Acusado,Venezuela,No especifica,No especifica,Hombre,40.0,No,No,No especifica
+1711,2515053515,2021-06-04,Trata,Explotación sexual,Victima directa,Argentina,Tucumán,No especifica,Mujer,39.0,No,No,90.0
+1725,1535153515,2021-06-09,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,45.0,No,No,No especifica
+1728,3555153515,2021-06-10,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Tucumán,Concepción,Mujer,25.0,No,No,90.0
+1729,3555153515,2021-06-10,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Tucumán,Concepción,Hombre,30.0,No,No,90.0
+1730,3555153515,2021-06-10,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,13.0,No,No,No especifica
+1731,3555153515,2021-06-10,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,20.0,No,No,No especifica
+1732,3555153515,2021-06-10,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,20.0,No,No,No especifica
+1733,3555153515,2021-06-10,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,20.0,No,No,No especifica
+1757,4584353515,2021-06-15,Trata,Explotación laboral,Victima directa,Bolivia,No especifica,No especifica,Mujer,16.0,No,No,No especifica
+1758,6584353515,2021-06-15,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,5.0,No,No,No especifica
+1761,515353515,2021-06-16,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Hombre,40.0,No,No,No especifica
+1762,3515353515,2021-06-16,Trata,Explotación sexual,Victima directa,Paraguay,Entre Ríos,Diamante,Mujer,26.0,No,No,30.0
+1771,5594553515,2021-06-23,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,13.0,No,No,No especifica
+1784,2594753515,2021-06-30,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Hombre,50.0,No,No,No especifica
+1786,5594753515,2021-06-30,Trata,Posible captación,Acusado,Puerto rico,No especifica,No especifica,Hombre,30.0,No,No,No especifica
+1787,8405753515,2021-06-30,Trata,Explotación laboral,Acusado,Cuba,Buenos Aires,Villa Madero,Mujer,35.0,No,No,6.0
+1798,4594844515,2021-07-03,Trata,Traslado de personas,Acusado,Argentina,No especifica,No especifica,Hombre,30.0,No,No,No especifica
+1811,9435944515,2021-07-08,Trata,Traslado de personas,Victima directa,Bolivia,No especifica,No especifica,Mujer,13.0,No,No,No especifica
+1812,9435944515,2021-07-08,Trata,Traslado de personas,Victima indirecta - familiar,Bolivia,No especifica,No especifica,Mujer,40.0,No,No,No especifica
+1817,5545154515,2021-07-14,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,24.0,No,No,No especifica
+1818,4545154515,2021-07-14,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Ciudad Autónoma de Buenos Aires,Hombre,72.0,No,No,6.0
+1819,8455154515,2021-07-14,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,17.0,No,No,No especifica
+1820,8455154515,2021-07-14,Trata,Posible captación,Acusado,Argentina,No especifica,No especifica,Hombre,42.0,No,No,No especifica
+1821,8455154515,2021-07-14,Trata,Posible captación,Victima indirecta - familiar,Argentina,No especifica,No especifica,Hombre,40.0,No,No,No especifica
+1826,9475154515,2021-07-15,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,24.0,No,No,No especifica
+1829,6584254515,2021-07-15,Trata,Posible captación,Victima directa,Argentina,No especifica,No especifica,Mujer,20.0,No,No,No especifica
+1840,9465254515,2021-07-18,Trata,"Explotación laboral niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,14.0,No,No,No especifica
+1848,594454515,2021-07-23,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Mujer,5.0,No,No,No especifica
+1850,505454515,2021-07-24,Trata,Posible captación,Acusado,Argentina,Buenos Aires,Wilde,Mujer,32.0,No,No,6.0
+1852,2575454515,2021-07-27,Trata,Grooming,Victima directa,Argentina,No especifica,No especifica,Hombre,13.0,No,No,No especifica
+1854,8484554515,2021-07-27,Trata,Pornografía infantil,Acusado,Argentina,No especifica,No especifica,Hombre,50.0,No,No,No especifica
+1855,6584554515,2021-07-27,Trata,"Explotación laboral niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,17.0,No,No,No especifica
+1856,4594554515,2021-07-28,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,15.0,No,No,No especifica
+1857,4535554515,2021-07-29,Trata,Explotación laboral,Acusado,Paraguay,No especifica,No especifica,Mujer,45.0,No,No,No especifica
