@@ -5,7 +5,7 @@
 3,594554505,2020-01-02,Trata,Explotación sexual,Acusado,Argentina,Córdoba,Laboulaye,Hombre,No especifica,No,No,14.0
 4,2594554505,2020-01-02,Trata,Persona desaparecida,Victima directa,Paraguay,Buenos Aires,No especifica,Mujer,No especifica,No,No,6.0
 8,7505554505,2020-01-04,Trata,Oferta laboral engañosa,Victima directa,Argentina,Buenos Aires,No especifica,Mujer,No especifica,No,No,6.0
-9,7505554505,2020-01-04,Trata,Oferta laboral engañosa,Acusado,Otro,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+9,7505554505,2020-01-04,Trata,Oferta laboral engañosa,Acusado,No especifica,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
 10,8415554505,2020-01-04,Trata,Persona desaparecida,Victima directa,Paraguay,Buenos Aires,No especifica,Mujer,No especifica,No,No,6.0
 17,525554505,2020-01-07,Trata,"Explotación sexual, explotación sexual niñas, niños y adolescentes",Acusado,Argentina,No especifica,No especifica,Mujer,50.0,No,No,No especifica
 19,1525554505,2020-01-07,Trata,"Persona desaparecida, venta de niños y otros delitos",Victima directa,Argentina,Buenos Aires,Melchor Romero,Mujer,27.0,No,No,6.0
@@ -71,7 +71,7 @@
 175,3545845505,2020-02-15,Trata,Trata de personas,Acusado,Camerun,Buenos Aires,Villa Sarmiento,Hombre,35.0,No,No,6.0
 180,2555845505,2020-02-16,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Luján,Mujer,24.0,No,No,6.0
 181,2555845505,2020-02-16,Trata,Explotación sexual,Victima directa,Argentina,Buenos Aires,Luján,Mujer,22.0,Si,No,6.0
-185,2565845505,2020-02-18,Trata,Explotación sexual,Acusado,Sin descripcion,Buenos Aires,Temperley,Mujer,No especifica,No,No,6.0
+185,2565845505,2020-02-18,Trata,Explotación sexual,Acusado,No especifica,Buenos Aires,Temperley,Mujer,No especifica,No,No,6.0
 186,7565845505,2020-02-18,Trata,Oferta laboral engañosa,Acusado,Argentina,Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,No especifica,No,No,6.0
 188,6575845505,2020-02-19,Trata,Explotación sexual,Acusado,Paraguay,Buenos Aires,No especifica,Mujer,No especifica,No,No,6.0
 189,6575845505,2020-02-19,Trata,Explotación sexual,Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
@@ -273,7 +273,7 @@
 775,5565256505,2020-08-07,Trata,Otro,Acusado,Argentina,Chubut,Comodoro Rivadavia,Hombre,42.0,No,No,26.0
 776,5565256505,2020-08-07,Trata,Otro,Victima indirecta - familiar,Bolivia,Chubut,Comodoro Rivadavia,Mujer,No especifica,No,No,26.0
 777,8475256505,2020-08-07,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,Peru,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
-778,9475256505,2020-08-07,Trata,Oferta laboral engañosa,Acusado,Sin descripcion,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+778,9475256505,2020-08-07,Trata,Oferta laboral engañosa,Acusado,No especifica,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
 780,4575256505,2020-08-07,Trata,Explotación sexual,Victima directa,Argentina,Neuquén,Neuquén,Hombre,No especifica,No,No,58.0
 784,4594356505,2020-08-09,Trata,Abuso sexual infantil,Acusado,Argentina,Chubut,Comodoro Rivadavia,Hombre,No especifica,No,No,26.0
 785,4594356505,2020-08-09,Trata,Abuso sexual infantil,Victima indirecta - familiar,Bolivia,Chubut,Comodoro Rivadavia,Mujer,No especifica,No,No,26.0
@@ -300,7 +300,7 @@
 840,1584556505,2020-08-20,Trata,"Explotación laboral niñas, niños y adolescentes",Victima directa,Argentina,Tucumán,ALBERDI,Hombre,16.0,No,No,90.0
 841,3584556505,2020-08-20,Trata,Persona desaparecida,Victima directa,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
 846,2515556505,2020-08-21,Trata,Intento de secuestro,Victima directa,Argentina,Río Negro,El Bolsón,Mujer,14.0,No,No,62.0
-847,5515556505,2020-08-21,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Sin descripcion,Buenos Aires,No especifica,Hombre,No especifica,No,No,6.0
+847,5515556505,2020-08-21,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,No especifica,Buenos Aires,No especifica,Hombre,No especifica,No,No,6.0
 855,2575556505,2020-08-23,Trata,Otro,Victima directa,Argentina,Santa Fe,Lanteri,Mujer,11.0,No,No,82.0
 856,2575556505,2020-08-23,Trata,Otro,Acusado,Argentina,Santa Fe,Lanteri,Hombre,19.0,No,No,82.0
 857,6584656505,2020-08-24,Trata,Explotación sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
@@ -326,7 +326,7 @@
 950,4515157505,2020-09-16,Trata,Explotación laboral,Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
 951,4515157505,2020-09-16,Trata,Explotación laboral,Acusado,Argentina,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
 957,525157505,2020-09-16,Trata,Explotación laboral,Acusado,Bolivia,No especifica,No especifica,Hombre,30.0,No,No,No especifica
-962,5545157505,2020-09-18,Trata,Traslado de personas,Victima directa,Sin descripcion,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
+962,5545157505,2020-09-18,Trata,Traslado de personas,Victima directa,No especifica,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
 963,9455157505,2020-09-18,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,Misiones,San Javier,Mujer,No especifica,No,No,54.0
 964,9455157505,2020-09-18,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Misiones,San Javier,Mujer,No especifica,No,No,54.0
 971,6515257505,2020-09-22,Trata,Privación ilegítima de la libertad,Victima directa,Venezuela,Buenos Aires,La Matanza,Mujer,25.0,No,No,6.0
@@ -351,9 +351,9 @@
 1046,4575657505,2020-10-16,Trata,Explotación laboral,Acusado,Venezuela,Buenos Aires,Tigre,Hombre,No especifica,No,No,6.0
 1049,2575757505,2020-10-22,Trata,Publicidad de oferta sexual,Victima indirecta - familiar,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
 1050,2575757505,2020-10-22,Trata,Publicidad de oferta sexual,Victima directa,Argentina,No especifica,No especifica,Mujer,17.0,No,No,No especifica
-1054,7594848415,2020-10-25,Trata,Explotación sexual,Acusado,Sin descripcion,Buenos Aires,Trujui,Mujer,No especifica,No,No,6.0
-1055,7594848415,2020-10-25,Trata,Explotación sexual,Acusado,Sin descripcion,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
-1056,4505848415,2020-10-25,Trata,Explotación sexual,Acusado,Sin descripcion,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+1054,7594848415,2020-10-25,Trata,Explotación sexual,Acusado,No especifica,Buenos Aires,Trujui,Mujer,No especifica,No,No,6.0
+1055,7594848415,2020-10-25,Trata,Explotación sexual,Acusado,No especifica,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
+1056,4505848415,2020-10-25,Trata,Explotación sexual,Acusado,No especifica,No especifica,No especifica,Hombre,No especifica,No,No,No especifica
 1057,7505848415,2020-10-25,Trata,Explotación laboral,Acusado,Bolivia,No especifica,No especifica,Hombre,42.0,No,No,No especifica
 1063,5535848415,2020-10-27,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
 1064,5535848415,2020-10-27,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
@@ -370,8 +370,8 @@
 1084,6535948415,2020-11-02,Trata,Explotación laboral,Victima directa,Bolivia,No especifica,No especifica,Mujer,19.0,No,No,No especifica
 1085,6545948415,2020-11-02,Trata,Explotación laboral,Victima directa,Bolivia,No especifica,No especifica,Mujer,No especifica,No,No,No especifica
 1100,7555058415,2020-11-07,Trata,Posible captación,Acusado,Chile,No especifica,No especifica,Hombre,19.0,No,No,No especifica
-1102,3575058415,2020-11-08,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,Sin descripcion,Córdoba,Córdoba,Hombre,76.0,No,No,14.0
-1103,3575058415,2020-11-08,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,Sin descripcion,Córdoba,Córdoba,Hombre,45.0,No,No,14.0
+1102,3575058415,2020-11-08,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,No especifica,Córdoba,Córdoba,Hombre,76.0,No,No,14.0
+1103,3575058415,2020-11-08,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,No especifica,Córdoba,Córdoba,Hombre,45.0,No,No,14.0
 1106,1535158415,2020-11-10,Trata,Explotación laboral,Victima directa,Argentina,No especifica,No especifica,Hombre,38.0,No,No,No especifica
 1107,9435158415,2020-11-10,Trata,Servidumbre doméstica,Victima directa,Argentina,No especifica,No especifica,Mujer,37.0,No,No,No especifica
 1119,7565158415,2020-11-12,Trata,Explotación laboral,Victima directa,Argentina,Buenos Aires,Las Flores,Hombre,60.0,No,No,6.0
