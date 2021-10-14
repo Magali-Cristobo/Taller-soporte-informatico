@@ -12,12 +12,11 @@ if __name__ == '__main__':
         respuesta = requests.get('https://randomuser.me/api/')
         respuesta.status_code
         informacion = respuesta.json()["results"][0]
-        print(informacion)
         username = informacion["login"]["username"]
         password = informacion["login"]["password"]
         city = informacion["location"]["city"]
         state = informacion["location"]["state"]
-        print(username + "," + password + "," + city + "," + state + "\n")
+
         linea = username + "," + password + "," + city + "," + state + "\n"
 
         archivo = open("data/tpApi.csv", "a")
