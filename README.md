@@ -1,7 +1,7 @@
-# T.Sop.Inf 4°CSTC
+# Taller de soporte informático 4°CSTC
 ## Cristobo Magali
 
-- Tarea 13 de Mayo
+- [Tarea 13 de Mayo](https://github.com/Magali-Cristobo/T.Sop.Inf/blob/master/proyectoAnaconda/notebooks/graficos.ipynb)
 - Tarea 17 de Junio
 - Tarea 12 de Agosto
 - Tarea 19 de Agosto
