@@ -1,4 +1,4 @@
-# Taller de soporte informático 4°CSTC
+# Taller de Tecnologías de Soporte informático 4°CSTC
 Cristobo Magalí
 
 - [Tarea 13 de Mayo](https://github.com/Magali-Cristobo/T.Sop.Inf/blob/master/proyectoAnaconda/notebooks/graficos.ipynb)
